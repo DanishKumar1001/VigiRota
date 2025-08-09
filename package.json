@@ -1,0 +1,32 @@
+{
+  "name": "vigirota",
+  "version": "1.0.0",
+  "description": "Vigilance scheduling for flexible work | Choose Your Rota!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanishKumar1001/VigiRota.git"
+  },
+  "keywords": [
+    "security",
+    "scheduling",
+    "roster",
+    "shifts",
+    "express",
+    "ejs",
+    "mongoose"
+  ],
+  "author": "Danish Kumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DanishKumar1001/VigiRota/issues"
+  },
+  "homepage": "https://github.com/DanishKumar1001/VigiRota#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.1.0"
+  }
+}
